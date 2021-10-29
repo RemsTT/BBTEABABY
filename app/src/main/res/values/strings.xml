@@ -5,8 +5,19 @@
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
-    <string name="trouve_ton_bbtea">Trouve ton BBTEA</string>
-
+    <string name="Question1">Plutôt te geler le cerveau ou te réchauffer le gosier ?</string>
+    <string name="Question1_Feu">Feu</string>
+    <string name="Question1_Glace">Glace</string>
+    <string name="Question2">Est-ce que tu veux des OS SOLIDES ?</string>
+    <string name="Question2_PasLait">Pas Lait</string>
+    <string name="Question2_Lait">Lait</string>
+    <string name="Question3">Est-ce que tu veux de la magie en bouche ?</string>
+    <string name="Question3_Non">Non</string>
+    <string name="Question3_Oui">Oui</string>
+    <string name="Question4">Je suis d\'humeur</string>
+    <string name="Question4_Classique">Classique !</string>
+    <string name="Question4_Passion">Passionnée !</string>
+    <string name="Question4_Gourmand">Gourmande !</string>
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <!-- TODO: Remove or change this placeholder text -->
